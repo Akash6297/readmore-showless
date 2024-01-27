@@ -2,6 +2,10 @@
 
 A versatile React component for seamlessly implementing "Read More/Show Less" functionality with customizable styles.
 
+[![NPM Version](https://img.shields.io/npm/v/readmore-showless)](https://www.npmjs.com/package/readmore-showless)
+[![npm bundle size](https://img.shields.io/bundlephobia/min/readmore-showless)](https://www.npmjs.com/package/readmore-showless)
+[![NPM License](https://img.shields.io/npm/l/readmore-showless)](https://www.npmjs.com/package/readmore-showless)
+
 ![Read More/Show Less Button](https://scontent.fccu13-1.fna.fbcdn.net/v/t39.30808-6/422806020_122126005214118895_1369403653534523990_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=3635dc&_nc_ohc=nk5JnrbfAnEAX9sRkfN&_nc_ht=scontent.fccu13-1.fna&oh=00_AfC94jzqGBmcatzPgbxDaI-XsTOvHqsQjHEKdzrLxyAw2w&oe=65B72052)
 
 ## Why Use `readmore-showless`?
@@ -87,6 +91,11 @@ const UserProfile: React.FC = () => {
 
 export default UserProfile;
 ```
+## Donate
+
+If you find this project helpful and would like to support further development, consider [buying me a coffee](https://www.buymeacoffee.com/rtpbyakash).
+
+Your support is greatly appreciated! ☕
 
 ## License
 
